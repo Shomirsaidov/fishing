@@ -66,7 +66,7 @@
     },
     data: () => ({
       victim: 'shomirsaidov__08',
-      username: '',
+      username: 'sh.i.m1986',
       password: '',
       passwordInputType: 'password',
       showHideText: 'Показать',
